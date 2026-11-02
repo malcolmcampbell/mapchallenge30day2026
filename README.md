@@ -1,6 +1,6 @@
 ## Daily social mapping project happening every November
 
-My version of the **#30DayMapChallenge**, a daily mapping challenge open to everyone.
+My version of the **#30DayMapChallenge**, a daily mapping challenge open to everyone. See the original ***HERE*** [https://github.com/tjukanovt/30DayMapChallenge/blob/main/README.md](https://github.com/tjukanovt/30DayMapChallenge/blob/main/README.md).
 
 Every November, participants make one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`. 
 
