@@ -61,10 +61,6 @@ For deeper community-maintained stats and archives, see [Haifeng Niu's #30DayMap
 
 Looking for data sources, software or tutorials to get started? The [Mapping resources](https://30daymapchallenge.com/resources/) page collects the essentials.
 
-## Contributing
-
-The most common contribution is **adding your map collection** to the website — the quickest way is to edit [`galleries.yml`](galleries.yml) and open a pull request. See [CONTRIBUTING.md](CONTRIBUTING.md) for this and other ways to submit.
-
 ## Code of Conduct
 
 Whether you are a GIS expert or have never made a map before, everyone is welcome to participate.
