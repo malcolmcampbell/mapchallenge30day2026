@@ -53,7 +53,7 @@ The 30 themes for the **2026 challenge** are listed below and on [30daymapchalle
 
 ## Explore the maps
 
-Since 2019 the community has shared **more than 50,000 maps** under the hashtag. Browse the community [map collections](https://30daymapchallenge.com/galleries/) for inspiration — and [add your own](CONTRIBUTING.md) so others can find it too.
+Since 2019 the community has shared **more than 50,000 maps** under the hashtag. Browse the community [map collections](https://30daymapchallenge.com/galleries/) for inspiration.
 
 For deeper community-maintained stats and archives, see [Haifeng Niu's #30DayMapChallenge bot](https://github.com/hn303/30DayMapChallenge-Bot) and David Friggens' [2019–2020 metadata gallery](https://github.com/dakvid/30DayMapChallenge2020Metadata).
 
