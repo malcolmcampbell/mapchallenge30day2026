@@ -1,12 +1,14 @@
 ## Daily social mapping project happening every November
 
-The official repository for **#30DayMapChallenge**, a daily mapping challenge open to everyone.
+My version of the **#30DayMapChallenge**, a daily mapping challenge open to everyone.
 
-Every November, participants make one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`. You can prepare maps in advance, but the spirit of the challenge is to publish one on each themed day. There are no restrictions on the tools, data or technologies you use, and doing fewer than 30 is also fine. No sign-up needed.
+Every November, participants make one map a day for 30 days — each based on a different theme — and share them on social media using the hashtag `#30DayMapChallenge`. 
+
+I prepare maps on the day! But the spirit of the challenge is to publish one on each themed day. There are no restrictions on the tools, data or technologies you use, and doing fewer than 30 is also fine. No sign-up needed.
 
 > **🌍 [30daymapchallenge.com](https://30daymapchallenge.com)** — themes, community map collections and mapping resources, all in one place.
 
-The 30 themes for the **2026 challenge** are listed below and on [30daymapchallenge.com/2026](https://30daymapchallenge.com/2026/). Add them to your calendar with [`themes.ical`](themes.ical). Themes from past challenges are kept in [`archive/`](archive/). Announcements are also posted on the official [30DayMapChallenge LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/).
+The 30 themes for the **2026 challenge** are listed below and on [30daymapchallenge.com/2026](https://30daymapchallenge.com/2026/). Announcements are also posted on the official [30DayMapChallenge LinkedIn page](https://www.linkedin.com/company/30daymapchallenge/).
 
 ## 2026 themes
 
