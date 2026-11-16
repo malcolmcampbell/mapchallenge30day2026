@@ -10,7 +10,7 @@ pacman::p_load(rgeoboundaries, sf, tidyverse, ggplot2, showtext, patchwork, gt)
 
 ############################################################################
 # 0. Data frame to gt table
-Homeless <- read_csv("./data/Homeless.csv")
+Homeless <- read_csv("https://raw.githubusercontent.com/malcolmcampbell/mapchallenge30day2026/refs/heads/main/data/Homeless.csv")
 # Living situation	2013	2018	2023	2029
 # Roofless or rough sleeper	30	207	333	0
 # Improvised dwelling	1425	1347	1116	0
